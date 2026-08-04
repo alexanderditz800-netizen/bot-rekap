@@ -1,0 +1,19 @@
+{
+  "name": "bot-rekap",
+  "version": "2.0.0",
+  "description": "Bot Rekap dengan fitur lengkap untuk manajemen transaksi dan last win tracking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": ["telegram-bot", "rekap", "finance", "management", "last-win"],
+  "author": "MasAlexxxxxx",
+  "license": "MIT"
+}
